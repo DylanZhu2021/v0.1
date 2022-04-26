@@ -4,7 +4,7 @@ Adopted from https://github.com/hashirshoaeb/home; but only in HTML and CSS.
 
 ## Preview:
 
-![image-20220426205806513](C:\Users\朱骁Dylan\AppData\Roaming\Typora\typora-user-images\image-20220426205806513.png)
+![image-20220426205806513](docs\image-20220426205806513.png)
 
 ## How to use?
 
