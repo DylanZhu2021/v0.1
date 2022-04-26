@@ -4,7 +4,7 @@ Adopted from https://github.com/hashirshoaeb/home; but only in HTML and CSS.
 
 ## Preview:
 
-![screenshot-preview](https://user-images.githubusercontent.com/30091032/126801766-520f92f0-2922-4e5d-a588-30aa133d500c.png)
+![image-20220426205806513](C:\Users\朱骁Dylan\AppData\Roaming\Typora\typora-user-images\image-20220426205806513.png)
 
 ## How to use?
 
@@ -16,4 +16,5 @@ Adopted from https://github.com/hashirshoaeb/home; but only in HTML and CSS.
 ## Special Thanks
 
 [Hashir Shoaeb](https://github.com/hashirshoaeb/) for wonderful repository!
-    
+
+[Jishan Shaikh](https://github.com/jishanshaikh4) for guidance
