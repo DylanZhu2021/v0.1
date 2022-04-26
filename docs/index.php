@@ -36,5 +36,7 @@
         </div>
     </div>
 </body>
-
+<?php
+echo "this is a test!";
+?>
 </html>
